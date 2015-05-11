@@ -1,3 +1,6 @@
+This branch is modified by sega liu.
+For the dual extruder with single motor, and currently only for arduino mega with ramps 1.4
+
 # Marlin 3D Printer Firmware
 <img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
 
